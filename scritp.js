@@ -4,3 +4,6 @@ const head = document.getElementById("head")
 function press () {
         head.textContent="bye"
 }
+function unpress () {
+        head.textContent="hello"
+}
