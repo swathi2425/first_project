@@ -5,5 +5,5 @@ function press () {
         head.textContent="bye"
 }
 function unpress () {
-        head.textContent="hello"
+        head.style.color="blue"
 }
